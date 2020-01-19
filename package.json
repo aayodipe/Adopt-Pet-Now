@@ -1,0 +1,32 @@
+{
+  "name": "adopt-pet-now",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "format": "prettier --write \"src/**/*.{js,html}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayodipe/Adopt-Pet-Now.git"
+  },
+  "author": "Ayodipe Adeyemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayodipe/Adopt-Pet-Now/issues"
+  },
+  "homepage": "https://github.com/aayodipe/Adopt-Pet-Now#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^1.19.1"
+  }
+}
