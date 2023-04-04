@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/aayodipe/Adopt-Pet-Now#readme",
   "dependencies": {
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
